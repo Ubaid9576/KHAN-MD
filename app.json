@@ -18,7 +18,7 @@
       "required": false,
       "value": "KHAN-MD"
     }, 
-      
+    
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
